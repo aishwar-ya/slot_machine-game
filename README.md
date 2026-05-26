@@ -19,3 +19,11 @@ Jackpot!! 💰
 
 ```bash
 python slot_machine.py
+
+## Example Output
+
+🍒 | 🍉 | 🍇  
+Thanks for Playing!!
+
+7️⃣ | 7️⃣ | 7️⃣  
+Jackpot!! 💰
