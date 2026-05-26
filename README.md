@@ -1,29 +1,32 @@
-# 🎰 Python Slot Machine Game
+# 🎰 Slot Machine Game
 
-A simple slot machine game built using Python and the `random` module.
+A simple slot machine game built with Python using the `random` module.  
+The game randomly selects three symbols and checks if the player hits the jackpot with three `7️⃣` symbols.
 
-## 📌 Features
-- Randomly selects 3 symbols
-- Displays symbols in slot machine format
-- Checks for a jackpot win
+## 🚀 Features
+- Random slot machine symbols
+- Jackpot winning system
+- Replay option using a `while` loop
+- User input with `Y/N`
+- Beginner-friendly Python project
 
 ## 🖥️ Example Output
 
-7️⃣ | 🍒 | 🍉  
-Thanks for Playing!!
+🍇 | 🍉 | 🍒  
+Thanks for Playing!!  
+Play again? (Y/N): Y
+
+7️⃣ | 7️⃣ | 🍒  
+Thanks for Playing!!  
+Play again? (Y/N): Y
 
 7️⃣ | 7️⃣ | 7️⃣  
-Jackpot!! 💰
+Jackpot!! 💰  
+Play again? (Y/N): N
 
-## 🚀 How to Run
+Game Over!
+
+## ▶️ How to Run
 
 ```bash
 python slot_machine.py
-
-## Example Output
-
-🍒 | 🍉 | 🍇  
-Thanks for Playing!!
-
-7️⃣ | 7️⃣ | 7️⃣  
-Jackpot!! 💰
