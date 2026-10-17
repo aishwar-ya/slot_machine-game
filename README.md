@@ -1,12 +1,6 @@
 <div align="center">
 
-# 🎰 Slot Machine Game
-
-### Spin the reels. Chase the jackpot. 💰
-
-<br/>
-
-🍇 &nbsp;|&nbsp; 🍉 &nbsp;|&nbsp; 🍒
+<img src="assets/readme/hero.svg" alt="Slot Machine Game - spin the reels, chase the jackpot" width="100%"/>
 
 <br/>
 
@@ -35,6 +29,8 @@ Each spin randomly selects **three symbols**. Land three `7️⃣` and you hit t
 
 > 🎯 **Goal:** Get **7️⃣ | 7️⃣ | 7️⃣** on the reels.
 
+The game uses four symbols (🍒 🍇 🍉 7️⃣), each equally likely on every reel, so the jackpot comes up about **1 in 64 spins**.
+
 ---
 
 ## ✨ Features
@@ -44,10 +40,12 @@ Each spin randomly selects **three symbols**. Land three `7️⃣` and you hit t
 | 🎲 **Random reels** | Three symbols are picked randomly on every spin |
 | 💰 **Jackpot system** | Three `7️⃣` symbols win the jackpot |
 | 🔁 **Replay option** | A `while` loop lets you keep playing |
-| ⌨️ **Simple input** | Answer with `Y` or `N` to continue or quit |
+| ⌨️ **Simple input** | Type `N` to quit; any other answer plays another round |
 | 🌱 **Beginner-friendly** | Short, readable code, ideal for learning Python |
 
 ---
+
+<div align="center"><img src="assets/readme/section-demo.svg" alt="Spin the reels" width="100%"/></div>
 
 ## 🖥️ Demo
 
@@ -61,13 +59,15 @@ Thanks for Playing!!
 Play again? (Y/N): Y
 
 7️⃣ | 7️⃣ | 7️⃣
-Jackpot!! 💰
+Jackpot!!
 Play again? (Y/N): N
 
 Game Over!
 ```
 
 ---
+
+<div align="center"><img src="assets/readme/section-how.svg" alt="Chase the jackpot" width="100%"/></div>
 
 ## 🔄 How It Works
 
@@ -89,6 +89,8 @@ flowchart TD
 ```
 
 ---
+
+<div align="center"><img src="assets/readme/section-run.svg" alt="Press play" width="100%"/></div>
 
 ## ▶️ How to Run
 
@@ -131,9 +133,7 @@ python slot_machine.py
 
 <div align="center">
 
-### 🎰 Thanks for Playing!
-
-If you like this project, please give it a ⭐
+<img src="assets/readme/footer.svg" alt="Thanks for playing" width="100%"/>
 
 *Made with Python & 🍀*
 
