@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/readme/hero.svg" alt="Slot Machine Game - spin the reels, chase the jackpot" width="100%"/>
+<img src="hero.svg" alt="Slot Machine Game - spin the reels, chase the jackpot" width="100%"/>
 
 <br/>
 
@@ -45,7 +45,7 @@ The game uses four symbols (🍒 🍇 🍉 7️⃣), each equally likely on ever
 
 ---
 
-<div align="center"><img src="assets/readme/section-demo.svg" alt="Spin the reels" width="100%"/></div>
+<div align="center"><img src="section-demo.svg" alt="Spin the reels" width="100%"/></div>
 
 ## 🖥️ Demo
 
@@ -67,7 +67,7 @@ Game Over!
 
 ---
 
-<div align="center"><img src="assets/readme/section-how.svg" alt="Chase the jackpot" width="100%"/></div>
+<div align="center"><img src="section-how.svg" alt="Chase the jackpot" width="100%"/></div>
 
 ## 🔄 How It Works
 
@@ -90,7 +90,7 @@ flowchart TD
 
 ---
 
-<div align="center"><img src="assets/readme/section-run.svg" alt="Press play" width="100%"/></div>
+<div align="center"><img src="section-run.svg" alt="Press play" width="100%"/></div>
 
 ## ▶️ How to Run
 
@@ -133,7 +133,7 @@ python slot_machine.py
 
 <div align="center">
 
-<img src="assets/readme/footer.svg" alt="Thanks for playing" width="100%"/>
+<img src="footer.svg" alt="Thanks for playing" width="100%"/>
 
 *Made with Python & 🍀*
 
